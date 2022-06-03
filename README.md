@@ -64,6 +64,8 @@ Implemente el circuito que se presenta en la figura 2.1.
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla 
 
+
+
 Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
 ![image](https://user-images.githubusercontent.com/105695077/171903183-fbdc3820-e9df-42e5-9b43-8da0631f9925.png)
@@ -76,7 +78,12 @@ Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los v
 ![image](https://user-images.githubusercontent.com/105695077/171905816-ddab1d30-e17e-4ae4-9417-a6d263b11bf1.png)
 ![image](https://user-images.githubusercontent.com/105695077/171905844-ce7d1ee0-b8be-4695-8793-b50d93cfafa0.png)
 
+![image](https://user-images.githubusercontent.com/105695077/171906958-20aba526-8b3a-4360-b5e7-c250089a4b47.png)
+![image](https://user-images.githubusercontent.com/105695077/171907004-56acd4f0-3a86-4393-8c05-305b16690e1a.png)
+
 Compare los valores de la tabla 2.1 y realice sus conclusiones.
+
+Tanto los valores adquiridos por el simulador y en el protoboard las mallas tienen un ligero desfase en sus resultados debido al voltaje que reccorre en el circuito y esto nos da una variacion en los resultados 
 
 Calcular errores de las mediciones y comentar los resultados.
 
