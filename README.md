@@ -97,6 +97,11 @@ un incentivo al final
 
 # BiBLIOGRAFÍA
 
+1.6. Análisis de Mallas. - Circuitos Eléctricos I. (s. f.). Circuitos Eléctricos I. https://sites.google.com/site/e91mediosdiitalesricardotrejo/home/1-6-analisis-de-mallas
+
+El método de la corriente de malla (artículo). (s. f.). Khan Academy. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method#:%7E:text=El%20m%C3%A9todo%20de%20la%20corriente%20de%20malla%20facilita%20el%20an%C3%A1lisis,de%20la%20corriente%20de%20malla.
+
+Zapata, F. (2019, 1 noviembre). Análisis de mallas: conceptos, métodos, ejemplos. Lifeder. https://www.lifeder.com/analisis-de-mallas/
 
 Rubrica:
 
