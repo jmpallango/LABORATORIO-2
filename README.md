@@ -72,6 +72,10 @@ Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los v
 ![image](https://user-images.githubusercontent.com/105695077/171903871-5c00ebcf-b745-4ca4-a4b3-5be481a692ac.png)
 ![image](https://user-images.githubusercontent.com/105695077/171904029-48ac423d-164a-47d0-984a-f4d86f3c02b0.png)
 
+![image](https://user-images.githubusercontent.com/105695077/171905664-aa4dd385-2981-4f5c-884c-ecee2cce3a31.png)
+![image](https://user-images.githubusercontent.com/105695077/171905816-ddab1d30-e17e-4ae4-9417-a6d263b11bf1.png)
+![image](https://user-images.githubusercontent.com/105695077/171905844-ce7d1ee0-b8be-4695-8793-b50d93cfafa0.png)
+
 Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 Calcular errores de las mediciones y comentar los resultados.
