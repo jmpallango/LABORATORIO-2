@@ -31,6 +31,8 @@ VIERNES 2 de junio de 2022
 
 # OBJETIVOS:
 
+General:
+
 Demostrar y explicar al momento de armar un circuito el Análisis de Mallas tanto en el simulador Tinkercad como en el protoboard.  
 
 Especificos:
