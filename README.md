@@ -118,3 +118,5 @@ Zapata, F. (2019, 1 noviembre). Análisis de mallas: conceptos, métodos, ejempl
 Rubrica:
 
 ![image](https://user-images.githubusercontent.com/105695077/169549221-6a6d7d81-301f-4ae6-adad-f0a59a65b83e.png)
+
+att: Nico Ortiz
