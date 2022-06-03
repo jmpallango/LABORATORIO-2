@@ -34,6 +34,9 @@ VIERNES 2 de junio de 2022
 
 # MARCO TEORICO:
 
+
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en
 función de corrientes.
 
@@ -55,8 +58,6 @@ Simule en el software Thinkercad, el circuito de la figura
 Obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
 Compare los valores de la tabla 2.1 y realice sus conclusiones.
-
-# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
 # VIDEO
