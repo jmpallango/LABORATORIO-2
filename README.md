@@ -88,15 +88,20 @@ Tanto los valores adquiridos por el simulador y en el protoboard las mallas tien
 
 Calcular errores de las mediciones y comentar los resultados.
 
+En la malla 1 nos encontramos con un error de 2.46% donde el valor medido con el valor teorico influyen una pequeña parte
+
+En la malla 2 nos encontramos con un error de 2.25%
+
+En la malla 3 tenemos un error de 2.50%
+
+En conclucion tanto el valor teorico como el valor medido se pueden diferenciar con el metodo que se ocupe para medir la corriente, el volte, etc o la tecnica 
+acostumbrada a usar ademas influye los equipos de medicion.
+
 # VIDEO
 
-https://youtu.be/2X3K263kEHc
 
 # CONCLUSIONES
 
--Hay que tener en cuenta que las leyes de Krichhoff son los principales al momento de calcular las mallas del circuito y ayuda a tener un mejor analisis de este
-
--Ayudarse de las herramientas de medicion de corrientes y voltajes como el multimetro para un analisis mas real sobre las corrientes para el analisis de las mallas 
 
 # BiBLIOGRAFÍA
 
