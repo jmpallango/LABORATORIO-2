@@ -58,7 +58,11 @@ Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los v
 Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 Calcular errores de las mediciones y comentar los resultados.
-no quiero calcular los errrores attt yo
+
+Aqui esta su calculo de errores, gg saludos 
+
+![image](https://user-images.githubusercontent.com/105829461/171788096-f6bd8580-fe64-41cc-8a09-c5af077b4049.png)
+
 
 
 # VIDEO
