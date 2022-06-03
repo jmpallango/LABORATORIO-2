@@ -90,9 +90,13 @@ Calcular errores de las mediciones y comentar los resultados.
 
 # VIDEO
 
+https://youtu.be/2X3K263kEHc
 
 # CONCLUSIONES
 
+-Hay que tener en cuenta que las leyes de Krichhoff son los principales al momento de calcular las mallas del circuito y ayuda a tener un mejor analisis de este
+
+-Ayudarse de las herramientas de medicion de corrientes y voltajes como el multimetro para un analisis mas real sobre las corrientes para el analisis de las mallas 
 
 # BiBLIOGRAFÍA
 
