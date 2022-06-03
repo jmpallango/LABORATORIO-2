@@ -103,6 +103,9 @@ https://youtu.be/2X3K263kEHc
 
 # CONCLUSIONES
 
+-Para el calculo de mallas hay que tener en cuenta el uso correcto de las leyes de Kirchhoff y entender el calculo de corrientes para este.
+
+-Utilizar de mejor manera las herramientas de medicion para tener un calculo preciso al momento de realizar los calculos de mallas.
 
 # BiBLIOGRAFÍA
 
