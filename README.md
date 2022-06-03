@@ -63,6 +63,11 @@ Aqui esta su calculo de errores, gg saludos
 
 ![image](https://user-images.githubusercontent.com/105829461/171788096-f6bd8580-fe64-41cc-8a09-c5af077b4049.png)
 
+porsi es de team miku
+
+![image](https://user-images.githubusercontent.com/105829461/171788226-2893f13e-172d-4bb7-a533-398360737c9f.png)
+
+
 
 
 # VIDEO
