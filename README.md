@@ -67,6 +67,9 @@ porsi es de team miku
 
 ![image](https://user-images.githubusercontent.com/105829461/171788226-2893f13e-172d-4bb7-a533-398360737c9f.png)
 
+porsi se quiere ver darling in the franx
+
+![image](https://user-images.githubusercontent.com/105829461/171788787-6c665c3e-b926-4149-9fac-212ed7cebaa1.png)
 
 
 
