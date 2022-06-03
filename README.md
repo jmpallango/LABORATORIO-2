@@ -53,7 +53,7 @@ Implemente el circuito que se presenta en la figura 2.1.
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla 
 
-Simule en el software Thinkercad, el circuito de la figura 
+Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
 Obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
