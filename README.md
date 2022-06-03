@@ -99,6 +99,7 @@ acostumbrada a usar ademas influye los equipos de medicion.
 
 # VIDEO
 
+https://youtu.be/2X3K263kEHc
 
 # CONCLUSIONES
 
