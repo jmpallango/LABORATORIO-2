@@ -43,6 +43,8 @@ Especificos:
 
 # MARCO TEORICO:
 
+![image](https://user-images.githubusercontent.com/105695077/171875814-7843f76b-4fba-4bf0-b52f-cfe3b281ee7e.png)
+![image](https://user-images.githubusercontent.com/105695077/171875892-3713742b-3a65-40c9-aa23-cfcaeb58977d.png)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
