@@ -39,6 +39,12 @@ Especificos:
 
 .Demostrar a travez del simulador Tinkercad la manera de armar un circuito y obtener de ella el analisis de mallas.
 
+![image](https://user-images.githubusercontent.com/105695077/171903183-fbdc3820-e9df-42e5-9b43-8da0631f9925.png)
+![image](https://user-images.githubusercontent.com/105695077/171903374-e664d907-801b-48ca-a21c-337a561d6dab.png)
+![image](https://user-images.githubusercontent.com/105695077/171903713-56f17d1d-422b-46f3-a1ff-ec950ee19b3a.png)
+![image](https://user-images.githubusercontent.com/105695077/171903871-5c00ebcf-b745-4ca4-a4b3-5be481a692ac.png)
+![image](https://user-images.githubusercontent.com/105695077/171904029-48ac423d-164a-47d0-984a-f4d86f3c02b0.png)
+
 .Explicar a travez del circuito armado en el protoboard el analisis de mallas y comparar los resultados obtenidos con el simulador. 
 
 # MARCO TEORICO:
