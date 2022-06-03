@@ -79,6 +79,7 @@ Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los v
 ![image](https://user-images.githubusercontent.com/105695077/171905844-ce7d1ee0-b8be-4695-8793-b50d93cfafa0.png)
 
 ![image](https://user-images.githubusercontent.com/105695077/171906958-20aba526-8b3a-4360-b5e7-c250089a4b47.png)
+
 ![image](https://user-images.githubusercontent.com/105695077/171907004-56acd4f0-3a86-4393-8c05-305b16690e1a.png)
 
 Compare los valores de la tabla 2.1 y realice sus conclusiones.
